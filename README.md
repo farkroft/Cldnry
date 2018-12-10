@@ -1,8 +1,8 @@
 # Create Cloudinary Account
-Pertama-tama untuk menggunakan image hosting cloudinary, buatlah akun di cloudinary
-Lalu masuk ke menu tab dashboard
-Kemudian pada form Account Details, download file yml accountmu lewat tombol tulisan YML di pojok kanan form tersebut
-Pastikan file cloudinary.yml sudah terdownload
+- Pertama-tama untuk menggunakan image hosting cloudinary, buatlah akun di cloudinary
+- Lalu masuk ke menu tab dashboard
+- Kemudian pada form Account Details, download file yml accountmu lewat tombol tulisan YML di pojok kanan form tersebut
+- Pastikan file cloudinary.yml sudah terdownload
 
 # Initial 
 Pindah ke project kamu :
